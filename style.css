@@ -44,6 +44,10 @@ section {
   background-color: var(--bg-near-white);
 }
 
+nav {
+  display: none;
+}
+
 /* For navigation */
 /* nav {
   top: 0;
