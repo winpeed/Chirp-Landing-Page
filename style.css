@@ -54,7 +54,7 @@ section {
     background: var(--bg-near-white);
     transform: translateY(-100%);
     position: fixed;
-    height: 70vh;
+    height: 55vh;
     transition: transform 0.3s ease-in 0.1s;
   }
 
